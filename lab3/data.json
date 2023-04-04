@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "index": {
+      "title": "Home"
+    },
+    "about-us": {
+      "title": "About Us"
+    },
+    "contacts": {
+      "title": "Our Contacts"
+    },
+    "features": {
+      "title": "Features"
+    },
+    "portfolio": {
+      "title": "Our Portfolio"
+    },
+    "pricing": {
+      "title": "Pricing"
+    },
+    "services": {
+      "title": "Our Services"
+    },
+    "testimonials": {
+      "title": "Testimonials"
+    }
+  }
+}
